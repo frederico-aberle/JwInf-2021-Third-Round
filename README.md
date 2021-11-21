@@ -3,4 +3,4 @@ My solutions to the tasks of the Computer Science Youth Competition of 2021 of t
 
 See also on the website of the Computer Science Youth Competition:
 
-[Tasks] (https://bwinf.de/fileadmin/bundeswettbewerb/40/Bundeswettbewerb-Aufgabenblatt.pdf)
+[Tasks](https://bwinf.de/fileadmin/bundeswettbewerb/40/Bundeswettbewerb-Aufgabenblatt.pdf)
